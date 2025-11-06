@@ -32,8 +32,8 @@ An intelligent tweet generation system powered by AI and Model Context Protocol 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ai-tweet-generator.git
-cd ai-tweet-generator
+git clone https://github.com/shivanshu814/MCP-Social.git
+cd MCP-Social
 ```
 
 ### 2. Install dependencies
